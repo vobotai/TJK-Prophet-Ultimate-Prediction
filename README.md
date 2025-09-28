@@ -1,1 +1,1 @@
-# TJK-Prophet-Ultimate-Tahmin-Algoritmas-
+# TJK-Prophet-Ultimate-Prediction
