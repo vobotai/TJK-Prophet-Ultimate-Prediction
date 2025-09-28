@@ -1,0 +1,5 @@
+artifacts/
+*.csv
+predictions.json
+report.md
+__pycache__/
